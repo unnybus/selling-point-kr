@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jinsun3107.github.io/selling-point-kr/sitemap.xml
